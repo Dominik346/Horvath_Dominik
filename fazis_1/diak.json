@@ -1,0 +1,40 @@
+{
+    "diakok": [
+      {
+        "id": 1,
+        "nev": "Kiss Péter",
+        "email": "kiss.peter@gmail.com",
+        "osztaly_id": 1
+      },
+      {
+        "id": 2,
+        "nev": "Nagy Anna",
+        "email": "nagy.anna@gmail.com",
+        "osztaly_id": 1
+      },
+      {
+        "id": 3,
+        "nev": "Tóth Bence",
+        "email": "toth.bence@gmail.com",
+        "osztaly_id": 1
+      },
+      {
+        "id": 4,
+        "nev": "Kovács Dániel",
+        "email": "kovacs.daniel@gmail.com",
+        "osztaly_id": 2
+      },
+      {
+        "id": 5,
+        "nev": "Szabó Réka",
+        "email": "szabo.reka@gmail.com",
+        "osztaly_id": 2
+      },
+      {
+        "id": 6,
+        "nev": "Varga Ádám",
+        "email": "varga.adam@gmail.com",
+        "osztaly_id": 2
+      }
+    ]
+  }
