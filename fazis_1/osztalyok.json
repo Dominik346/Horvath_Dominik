@@ -1,16 +1,16 @@
-{
-    "osztalyok": [
-      {
-        "id": 1,
-        "nev": "10.A",
-        "szak": "Informatika",
-        "evfolyam": 10
-      },
-      {
-        "id": 2,
-        "nev": "10.B",
-        "szak": "Informatika",
-        "evfolyam": 10
-      }
-    ]
-  }
+  {
+      "osztalyok": [
+        {
+          "id": 1,
+          "nev": "10.A",
+          "szak": "Informatika",
+          "evfolyam": 10
+        },
+        {
+          "id": 2,
+          "nev": "10.B",
+          "szak": "Informatika",
+          "evfolyam": 10
+        }
+      ]
+    }
