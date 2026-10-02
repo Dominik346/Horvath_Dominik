@@ -36,7 +36,7 @@ app.get('/', (req, res) =>{
 
 app.get('/api/osztalyok', async (req, res) => {
   try {
-    const [rows] = await pool.query('SELECT * FROM osztalyok');
+    const [rows] = await pool.query('SELECT * FROM osztaly');
     res.json(rows);
   } catch (err) {
     console.error(err);
