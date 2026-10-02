@@ -24,12 +24,12 @@ app.get('/', (req, res) =>{
   res.json({
     uzenet: 'Kezdő Iskolai REST API fut',
     elerheto_vegpontok: [
-      'GET /api/osztalyok',
-      'GET /api/osztalyok/:id',
-      'GET /api/osztalyok/:id/diakok',
-      'GET /api/diakok',
-      'GET /api/diakok:id',
-      'GET /api/diakok?aktiiv=1'
+      'GET /api/osztaly',
+      'GET /api/osztaly/:id',
+      'GET /api/osztaly/:id/diak',
+      'GET /api/diak',
+      'GET /api/diak:id',
+      'GET /api/diak?aktiv=1'
     ]
   })
 })
